@@ -1,0 +1,31 @@
+{
+  "before": {
+    "head": "064ccec1bca84e8b318ca33113a0353e4b617222",
+    "renderer": "D3D12 (NVIDIA GeForce RTX 5070)",
+    "vispy": "0.17.1.dev5",
+    "numpy": "2.5.4",
+    "expected_theta_degrees": 30.0,
+    "returned_theta_degrees": 60.00000000000001,
+    "returned_radius": 1.0000000000000002,
+    "correct": false,
+    "nonlinear_sha256": "dfedd8d95f670f7d19573240734d7709b8fb06b3f68603676fa90f24a9c3175f",
+    "screenshot_sha256": "00199ef1afecf788749fd7cbd92040b9648a413112f2056669a85c5473850edd",
+    "forward_rgba_sha256": "8870132ab97d04dcf3aa6964f271482e66fe22e573af0bdcdbd0c05c767cd64d",
+    "back_projected_shift_pixels": 87.9984753348571
+  },
+  "after": {
+    "head": "6e81c1188bad25431825bc20ef3093143e0a2e42",
+    "renderer": "D3D12 (NVIDIA GeForce RTX 5070)",
+    "vispy": "0.17.1.dev7",
+    "numpy": "2.5.4",
+    "expected_theta_degrees": 30.0,
+    "returned_theta_degrees": 29.999999999999996,
+    "returned_radius": 1.0000000000000002,
+    "correct": true,
+    "nonlinear_sha256": "ec9e0fe7d264d38a333cf6bc40bb633c8faad3a41bdcea0743e6486fc81e5ced",
+    "screenshot_sha256": "9754b5527db7e166d33d3c5cb7e4c08e55bf2b0f3f7fba10a17609dd64a814de",
+    "forward_rgba_sha256": "8870132ab97d04dcf3aa6964f271482e66fe22e573af0bdcdbd0c05c767cd64d",
+    "back_projected_shift_pixels": 3.8909317787439016e-14
+  },
+  "script_sha256": "a605bc23d8a05a21df40416da6bd1ec1e292950347387e6b78f95e2a60652cc2"
+}
